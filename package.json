@@ -1,0 +1,24 @@
+{
+  "name": "vue-project-starter",
+  "version": "1.0.0",
+  "description": "Simple project starter based on Vue framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkurczewski/vue-project-starter.git"
+  },
+  "keywords": [
+    "Vue",
+    "project",
+    "starter"
+  ],
+  "author": "Michał Kurczewski <michalkurczewski94@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkurczewski/vue-project-starter/issues"
+  },
+  "homepage": "https://github.com/mkurczewski/vue-project-starter#readme"
+}
